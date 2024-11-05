@@ -60,8 +60,8 @@ The dataset comprises 4046 images of guava plants, showcasing manifestations of 
 ![image](https://github.com/user-attachments/assets/9047aa0f-f27c-49d9-9e1c-2a7408942a20)
 ![image](https://github.com/user-attachments/assets/e564d55c-4cf8-4f1b-9f07-75e8997a30bb)
 -->
+# DETECTING GUAVA DISEASES: A COMPARATIVE ANALYSIS OF MACHINE LEARNING AND DEEP LEARNING TECHNIQUES
 
-![image](https://github.com/user-attachments/assets/a99f1340-149a-4efe-b422-f9f0229ffe5b)
 ![image](https://github.com/user-attachments/assets/03e3811a-78c9-431f-8198-0ed580b7b70e)
 ![image](https://github.com/user-attachments/assets/9949f4ff-0713-497a-a3ed-2a9673d88ed9)
 ![image](https://github.com/user-attachments/assets/3c750de2-75a4-498e-bcb0-1704ec54abba)
